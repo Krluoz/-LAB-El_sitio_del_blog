@@ -11,6 +11,7 @@ body{
 }
 
 #barraUp {
+  display: flex;
   height: 159px;
   width: 100%;
   background-color: rgb(64, 79, 140);
@@ -20,32 +21,40 @@ body{
   padding: 31px 31px;;
 }
 
-#AS{
+.josefinTxt{
+  color: rgb(164, 192, 212);
+  font-family:'Josefin Sans';
+  font-weight: normal;
+  text-align: justify;
+  line-height: 140%;
+  font-size: 26px;
+}
+
+.nerkoTxt{
   font-family: 'Nerko One';
   font-weight: normal;
   color: rgb(255, 255, 255);
+  font-size: 36px;
+  
+}
+
+#AS{
   position:absolute;
   left: 190px;
-  bottom: 750px;
+  bottom: 745px;
 }
 
 #NA{
-  font-family: 'Nerko One';
-  font-weight: normal;
-  color: white;
   position: absolute;
   left: 350px;
-  bottom: 750px;
+  bottom: 745px;
 
 }
 
 #IS{
-  font-family: 'Nerko One';
-  font-weight: normal;
-  color: white;
   position: absolute;
   left: 475px;
-  bottom: 750px;
+  bottom: 743px;
 
 }
 
@@ -86,29 +95,41 @@ body{
 }
 
 #text1{
-  font-family: 'Josefin Sans';
-  font-weight: normal;
-  font-size: 27px;
-  padding: 0px 690px 0px 60px;
+  padding: 0px 770px 0px 60px;
 }
 
 #imgBob{
   position: absolute;
-  left: 1090px;
-  bottom: 455px;
+  left: 1190px;
+  bottom: 40px;
 }
 
 #colorA{
+  font-family: 'Nerko One';
+  font-weight: normal;
   font-size: 30px;
   margin: 0px;
   padding: 70px 0px 20px 390px;
   color:rgb(218, 127, 94)
 }
 
-#txtC {
+#sec{
+  font-family: 'Nerko One';
+  font-weight: normal;
+  font-size: 38px;
   margin: 0px;
-  color: rgb(180, 221, 237);
-  text-align:justify
+  padding: 0px 0px 0px 10px;
+  color:rgb(218, 127, 94)
+}
+
+#txtA {
+  margin: 0px;
+}
+
+#txt2{
+  position: absolute;
+  bottom: 215px;
+  padding: 0px 60px 0px 1418px;
 }
 
 
