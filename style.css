@@ -2,4 +2,103 @@ html {
     height: 100%;
     width: 100%;
   }
-  
+
+body{
+  margin: 0;
+  background-color: rgb(26, 26, 102);
+}
+
+#barraUp {
+  height: 159px;
+  width: 100%;
+  background-color: blue;
+}
+
+#nasa {
+  padding: 31px 31px;;
+}
+
+#AS{
+  color: white;
+  position:absolute;
+  left: 190px;
+  bottom: 750px;
+}
+
+#NA{
+  color: white;
+  position: absolute;
+  left: 350px;
+  bottom: 750px;
+
+}
+
+#IS{
+  color: white;
+  position: absolute;
+  left: 475px;
+  bottom: 750px;
+
+}
+
+#esc{
+  width: 400px;
+  height: 55px;
+  background-color: white;
+  position: absolute;
+  left: 1180px;
+  bottom: 760px;
+}
+
+#e{
+  color: rgb(87, 87, 87);
+  margin: 0px;
+  padding: 14px 20px;
+  font-size: 24px;
+}
+
+#buscar{
+  width: 130px;
+  height: 55px;
+  background-color: white;
+  position: absolute;
+  left: 1631px;
+  bottom: 760px;
+}
+
+#b{
+  color: rgb(87, 87, 87);
+  margin: 0px;
+  padding: 14px 31px;
+  font-size: 24px;
+}
+
+#cont1{
+  margin: 1;
+}
+
+#text1{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 27px;
+  padding: 0px 690px 0px 60px;
+}
+
+#imgBob{
+  position: absolute;
+  left: 1090px;
+  bottom: 455px;
+}
+
+#colorA{
+  font-size: 30px;
+  margin: 0px;
+  padding: 70px 0px 20px 390px;
+  color:rgb(218, 127, 94)
+}
+
+#txtC {
+  margin: 0px;
+  color: white;
+}
+
+
