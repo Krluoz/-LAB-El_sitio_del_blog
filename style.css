@@ -5,13 +5,13 @@ html {
 
 body{
   margin: 0;
-  background-color: rgb(26, 26, 102);
+  background-color: rgb(9, 15, 38);
 }
 
 #barraUp {
   height: 159px;
   width: 100%;
-  background-color: blue;
+  background-color: rgb(64, 79, 140);
 }
 
 #nasa {
@@ -43,7 +43,7 @@ body{
 
 #esc{
   width: 400px;
-  height: 55px;
+  height: 54px;
   background-color: white;
   position: absolute;
   left: 1180px;
@@ -53,24 +53,24 @@ body{
 #e{
   color: rgb(87, 87, 87);
   margin: 0px;
-  padding: 14px 20px;
-  font-size: 24px;
+  padding: 14px 18px;
+  font-size: 26px;
 }
 
 #buscar{
-  width: 130px;
-  height: 55px;
+  width: 152px;
+  height: 54px;
   background-color: white;
   position: absolute;
-  left: 1631px;
+  left: 1608px;
   bottom: 760px;
 }
 
 #b{
   color: rgb(87, 87, 87);
   margin: 0px;
-  padding: 14px 31px;
-  font-size: 24px;
+  padding: 14px 42px;
+  font-size: 26px;
 }
 
 #cont1{
